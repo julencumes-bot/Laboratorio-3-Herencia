@@ -7,5 +7,8 @@ atributos, métodos y relaciones del análisis proporcionado.
 
 Desde la carpeta del proyecto:
 
+Compilar:
 javac -d bin src/*.java
+
+Ejecutar:
 java -cp bin Main
